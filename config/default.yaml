@@ -1,0 +1,3 @@
+services:
+  bpdtsApp:
+    baseURL: https://bpdts-test-app.herokuapp.com/

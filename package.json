@@ -1,0 +1,33 @@
+{
+  "name": "dwp-online-test",
+  "version": "1.0.0",
+  "description": "Solution to: https://bpdts-test-app.herokuapp.com/",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --recursive ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbrook1/dwp-online-test.git"
+  },
+  "author": "Matthew Brook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattbrook1/dwp-online-test/issues"
+  },
+  "homepage": "https://github.com/mattbrook1/dwp-online-test#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "http-status-codes": "^1.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^8.1.0",
+    "nock": "^13.0.3",
+    "sinon": "^9.0.2",
+    "supertest": "^4.0.2"
+  }
+}
