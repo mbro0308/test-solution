@@ -1,4 +1,4 @@
-# dwp-online-test
+# test-solution
 
 Solution to https://bpdts-test-app.herokuapp.com/
 

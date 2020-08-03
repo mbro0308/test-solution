@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattbrook1/dwp-online-test.git"
+    "url": "git+https://github.com/mbro0308/dwp-online-test.git"
   },
   "author": "Matthew Brook",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mattbrook1/dwp-online-test/issues"
+    "url": "https://github.com/mbro0308/dwp-online-test/issues"
   },
-  "homepage": "https://github.com/mattbrook1/dwp-online-test#readme",
+  "homepage": "https://github.com/mbro0308/dwp-online-test#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "config": "^3.3.1",
